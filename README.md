@@ -3,11 +3,9 @@
 
 - Name:
 - Date:
-- Assignment: Chapter 2
-    - Welcome Message
-    - Divide Input Integers
-    - Caffeine Levels
-    - Driving Costs
-    - Calories Burned during workout
+- Assignment: Chapter 3
+    - Miles to track laps
+    - A Jiffy
+    - Driving Cost (Methods)
 
 
