@@ -5,7 +5,7 @@
 - Date:
 - Assignment: Chapter 3
     - Miles to track laps
-    - A Jiffy
+    - In A Jiffy
     - Driving Cost (Methods)
 
 
