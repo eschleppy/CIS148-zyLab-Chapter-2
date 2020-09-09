@@ -1,5 +1,5 @@
 # CIS148 zyLAB Assignment
-## Summer 2020 #
+## Fall 2020 #
 
 - Name:
 - Date:
